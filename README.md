@@ -10,7 +10,7 @@ The target audience of this guide ranges from election professionals to new cand
 
 #####Section I - Initial Steps
 
-Having a website is not enough, in fact it has become quite easy to do so. Today, http://Nationbuilder.com offers a pay for subscription service that allows you to quickly create a website for your campaign and connect your facebook friends to this site. While the offering is interesting and fulfils some fundraising techniques, the more critical question is how will you reach out to individuals to make an online fundraising appeal?
+Having a website is not enough, in fact it has become quite easy to do so. Today, http://nationbuilder.com offers a pay for subscription service that allows you to quickly create a website for your campaign and connect your facebook friends to this site. While the offering is interesting and fulfils some fundraising techniques, the more critical question is how will you reach out to individuals to make an online fundraising appeal?
 
 Today, mobile rules. The latest social networks are not facebook or twitter but snapchat, Instagram and Whats App. Mastering online fundraising will require much more than a webpage, facebook account and twitter presence - this presence could go unnoticed. Success in fundraising will require a mastery of analytics, capturing the right information and sending the appropriate message to the appropriate audience.
 
@@ -29,7 +29,7 @@ When tailoring a fundraising appeal you’ll be more successful when you engage 
 
 #####Section II - Multi Channel Fundraising
 
-Setting up fundraising has never been easier than today. http://redmeetsblue.org is a free service that leverages the stripe payment gateway. With Stripe you simply connect your bank account and contributions are sent weekly. Other free alternatives include fundly, paypal, and kickstarter, but none of these alternatives provide FEC/state compliance tools you will need. Payment gateways in the political sphere, which do provide compliance include Nationbuilder, NGP-Van, campaigngrid. All of these services require a monthly fee. While this article is inherently bias in favor of redmeetsblue, you should check out the alternatives to compare features and value. 
+Setting up fundraising has never been easier than today. http://redmeetsblue.org is a free service that leverages the stripe payment gateway. With Stripe you simply connect your bank account and contributions are sent weekly. Other free alternatives include https://www.crowdtilt.com/, http://paypal.com, and http://kickstarter.com, but none of these alternatives provide FEC/state compliance tools you will need. Payment gateways in the political sphere, which do provide compliance include http://nationbuilder, http://ngp-van.com, http://campaigngrid.com. All of these services require a monthly fee. While this article is inherently bias in favor of redmeetsblue, you should check out the alternatives to compare features and value. 
 
 #####Section III - Measure Conversion and Success
 
