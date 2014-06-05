@@ -4,7 +4,7 @@ This is an open source guide to online political fundraising
 
 How to Raise Political Contributions Online
 ---
- **Section 0  - About this guide **
+#####Section 0  - About this guide
 
 The target audience of this guide ranges from election professionals to new candidates running for office. The motivation of this guide is to correct outdated campaign guides on the web, so you can learn about modern online and mobile fundraising techniques. 
 
