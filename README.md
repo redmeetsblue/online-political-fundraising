@@ -1,6 +1,9 @@
 redmeetsblue.org
+
 This is an open source guide to online political fundraising
+
 How to Raise Political Donations Online
+
 Section I - About this guide
 
 The target audience of this guide ranges from election professionals to new candidates running for office. The motivation of this guide is to correct outdated campaign guides on the web, so you can learn about modern online and mobile fundraising techniques. 
