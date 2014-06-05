@@ -7,7 +7,7 @@ This is an open source guide to online political fundraising
 
 How to Raise Political Donations Online
 
-We’ve all heard the success stories of online fundraising… John McCain, Howard Dean, Barack Obama, and a few other well known national personalities who have raised millions of dollars through their online efforts.  We’ve also heard the horror stories… campaigns that have foolishly staked the success of their entire fundraising effort on the strength of their online operation, and ended up raising only a few hundred dollars.
+We’ve all heard the success stories of online fundraising. Hillary Clinton, Howard Dean, Barack Obama, and a few other well known national personalities who have raised millions of dollars through their online efforts.  We’ve also heard the horror stories… campaigns that have foolishly staked the success of their entire fundraising effort on the strength of their online operation, and ended up raising only a few hundred dollars.
 
 Which model is right?  Has the Internet completely revolutionized the way that campaigns raise money, or is the net simply a side-story, a small drop in the bucket next to the time-tested tactics of fundraising events, direct mail, and major donor solicitation?  The answer is… somewhere in between.
 
