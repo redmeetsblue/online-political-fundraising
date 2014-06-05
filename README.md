@@ -29,7 +29,7 @@ When tailoring a fundraising appeal you’ll be more successful when you engage 
 
 #####Section II - Multi Channel Fundraising
 
-Setting up fundraising has never been easier than today. http://redmeetsblue.org is a free service that leverages the stripe payment gateway. With Stripe you simply connect your bank account and contributions are sent weekly. Other free alternatives include https://www.crowdtilt.com/, http://paypal.com, and http://kickstarter.com, but none of these alternatives provide FEC/state compliance tools you will need. Payment gateways in the political sphere, which do provide compliance include http://nationbuilder, http://ngp-van.com, http://campaigngrid.com. All of these services require a monthly fee. While this article is inherently bias in favor of redmeetsblue, you should check out the alternatives to compare features and value. 
+Setting up fundraising has never been easier than today. http://redmeetsblue.org is a free service that leverages the stripe payment gateway. With Stripe you simply connect your bank account and contributions are sent weekly. Other free alternatives include https://www.crowdtilt.com/, http://paypal.com, and http://kickstarter.com, but none of these alternatives provide FEC/state compliance tools you will need. Payment gateways in the political sphere, which do provide compliance include http://nationbuilder, http://ngpvan.com, http://campaigngrid.com. All of these services require a monthly fee. While this article is inherently bias in favor of redmeetsblue, you should check out the alternatives to compare features and value. 
 
 #####Section III - Measure Conversion and Success
 
