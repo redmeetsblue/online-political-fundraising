@@ -35,7 +35,7 @@ Setting up fundraising has never been easier than today. http://redmeetsblue.org
 
 Once you have set up your fundraising solution, you need to begin reaching out to your targeted Audiences, with your custom messaging. How can you be sure someone has opened a link? How can you be sure someone has opened an email? And how can you reach out to these people?
 
-Luckily there are a number of free solutions to help you answer the above concerns. bit.ly is a url shortener, with associated link tracking. For example, it could shorten http://redmeetsblue.org -> http://bit.ly/1kDFEIn This new link has assoicated tracking features, so you can be certain when a link has been clicked on. http://mailchimp.com/ offers email solutions, that provide email tracking, so you can be sure your emails are being recieved, and read. And how about managing all of your contacts? Both http://redmeetsblue.org and Nationbuilder offer a Donor Profile service. redmeetsblue.org is free, and nationbuilder has a monthly service fee.
+Luckily there are a number of free solutions to help you answer the above concerns. http://bit.ly is a url shortener, with associated link tracking. For example, it could shorten http://redmeetsblue.org -> http://bit.ly/1kDFEIn This new link has assoicated tracking features, so you can be certain when a link has been clicked on. http://mailchimp.com/ offers email solutions, that provide email tracking, so you can be sure your emails are being recieved, and read. And how about managing all of your contacts? Both http://redmeetsblue.org and Nationbuilder offer a Donor Profile service. redmeetsblue.org is free, and nationbuilder has a monthly service fee.
 
 #####Section IV - How you can Contribute to this guide
 
