@@ -50,7 +50,7 @@ Help support Jason Wade’s plans to revitalize the #WoodCounty #economy #p2 #mo
 ```
 #####Section III - Linking to redmeetsblue
 
-Your fundraising page can be fully customized to look like your webpage. You should replace any donate buttons or links, with your fundraising url (The page used for making a contribution)
+Your fundraising page can be fully customized to look like your webpage. You should replace any donate buttons or links on your webpage, with your fundraising url (The page used for making a contribution)
 
 You should also include links to your fundraising page from:
 * Links from Social Media pages
