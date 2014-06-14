@@ -25,8 +25,9 @@ Remember these tips:
 4. Consider including common hashtags such as #tcot or #p2
 
 Example message:
-
+```
 Help support Jason Wade’’s plans to revitalize the #WoodCounty #economy #p2 #moneybomb https://redmeetsblue.org/jason-wade-for-mayor/
+```
 
 
 #####Section II - Link shorteners and tracking
@@ -44,9 +45,9 @@ Bitly translates a like this: https://redmeetsblue.org/jason-wade-for-mayor/ to 
 5. return back to bit.ly to view link clicks 
 
 Example message with link shortner:
-
+```
 Help support Jason Wade’’s plans to revitalize the #WoodCounty #economy #p2 #moneybomb http://bit.ly/1oqElA0
-
+```
 #####Section III - Linking to redmeetsblue
 
 Your fundraising page can be fully customized to look like your webpage. You should replace any donate buttons or links, with your fundraising url (The page used for making a contribution)
