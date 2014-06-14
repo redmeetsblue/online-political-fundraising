@@ -26,7 +26,7 @@ Remember these tips:
 
 Example message:
 ```
-Help support Jason Wade’’s plans to revitalize the #WoodCounty #economy #p2 #moneybomb https://redmeetsblue.org/jason-wade-for-mayor/
+Help support Jason Wade’s plans to revitalize the #WoodCounty #economy #p2 #moneybomb https://redmeetsblue.org/jason-wade-for-mayor/
 ```
 
 
@@ -46,7 +46,7 @@ Bitly translates a like this: https://redmeetsblue.org/jason-wade-for-mayor/ to 
 
 Example message with link shortner:
 ```
-Help support Jason Wade’’s plans to revitalize the #WoodCounty #economy #p2 #moneybomb http://bit.ly/1oqElA0
+Help support Jason Wade’s plans to revitalize the #WoodCounty #economy #p2 #moneybomb http://bit.ly/1oqElA0
 ```
 #####Section III - Linking to redmeetsblue
 
