@@ -12,7 +12,7 @@ Hashtags are an important feature to use when crafting your message. Hashtags be
 
 You can use social media to piggyback on famous hashtags. For example many Democratic candidates use the hashtag #p2 and conservative candidates #tcot. These are short abbreviations for “progressive” and “true conservatives on twitter” - but using these tags in conjunction with your post, could lead to exposure to a targeted group of people. 
 
-We recommend you post to social media, at least once per day, at a time when many other people are using social media, between 10am-3pm. 
+We recommend you post to social media, at least once per day, at a time when many other people are using social media, generally between 10am-3pm. https://followerwonk.com provides an online tool, to help you determine when the best time to tweet is. 
 
 Remember these tips:
 
