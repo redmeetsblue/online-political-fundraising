@@ -3,7 +3,7 @@ http://redmeetsblue.org
 How to Raise Political Contributions Online
 —
 
-#####Section 0  - Welcome!
+#####Welcome!
 
 Congratulations! You have successfully enabled your campaign to fundraise with redmeetsblue. This guide will enable your campaign to maximize its fundraising using the redmeetsblue tool. 
 
